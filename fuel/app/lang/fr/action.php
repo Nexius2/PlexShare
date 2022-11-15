@@ -1,0 +1,22 @@
+<?php return [
+    'refresh' => 'Actualiser',
+    'refresh_servers' => 'Actualiser les Serveurs',
+    'refresh_libraries' => 'Actualiser les Libraries',
+    'edit' => 'Editer',
+    'save_modification' => 'Enregistrer',
+    'disable' => 'Désactiver',
+    'enabled' => 'Activer',
+    'disabled' => 'Désactivé',
+    'delete' => 'Supprimer',
+    'play' => 'Lecture',
+    'random_order' => 'Aléatoire',
+    'add_to_queue' => 'Ajouter a la playing',
+    'more' => 'Plus',
+    'mark_as_read' => 'Marquer comme lu',
+    'show_poster' => 'Afficher le poster',
+    'read_more' => 'Lire plus',
+    'download' => 'Telecharger',
+    'online' => 'Actif',
+    'offline' => 'Eteint',
+    'none' => 'Aucun'
+];
